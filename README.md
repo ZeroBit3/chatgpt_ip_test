@@ -12,4 +12,4 @@ Linux安装并运行脚本
 
 Windows安装并运行脚本
 
-        python GPT_iptest.py
+	python GPT_iptest.py
