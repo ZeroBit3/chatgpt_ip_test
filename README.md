@@ -14,10 +14,14 @@ Windows安装并运行脚本(此脚本需要提前安装curl ：https://curl.se/
 
 ![curl](https://github.com/ZeroBit3/chatgpt_ip_test/assets/49831656/faf1b5de-985a-4a8c-9ad3-6a9036bb724d)
 
+到脚本目录cmd执行
 
 	python ip_test_VPN.py
  
-Windows安装并运行脚本（此脚本也需要安装curl ：https://curl.se/windows/），以下命令适用于使用clash，v2ray机场节点的用户，但是要更改py文件中最后的代理ip和端口，默认7890是clash默认端口，请自行修改）。
+Windows安装并运行脚本（此脚本也需要安装curl ：https://curl.se/windows/）
+以下命令适用于使用clash，v2ray机场节点的用户，但是要更改py文件中最后的代理ip和端口，默认7890是clash默认端口，请自行修改）。
+
+到脚本目录cmd执行
 
 	python ip_test_software.py
 
