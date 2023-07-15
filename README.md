@@ -10,3 +10,5 @@ Linux安装并运行脚本
 
 	wget -O chat_test.sh https://raw.githubusercontent.com/ZeroBit3/chatgpt_ip_test/main/chat_test.sh && chmod +x chat_test.sh && clear && ./chat_test.sh
 
+
+        python GPT_iptest.py
